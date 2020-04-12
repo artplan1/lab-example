@@ -30,4 +30,4 @@
 
 1. Создаете пулл-реквест в интерфейсе github и добавляете меня в reviewers
 
-   ![PR](".github/pr.png")
+   ![PR](.github/pr.png)
